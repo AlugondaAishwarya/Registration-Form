@@ -63,6 +63,6 @@
       </form>
     </div>
   </div>
-<h3>THANK YOU FOR REGISTRATION</h3>
+<h3>your registration is completed</h3>
 </body>
 </html>
